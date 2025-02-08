@@ -13,4 +13,4 @@
 
 申請ngrok帳戶和個人網域可以到https://ngrok.com
 
-詳細教學可以下載教學簡報https://github.com/13f5dec5-7460-4b8f-aa02-2073c0167fe2
+詳細教學可以下載教學簡報https://reurl.cc/RLlrDe
